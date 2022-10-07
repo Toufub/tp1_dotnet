@@ -1,1 +1,0 @@
-D:\eloi_cambray\Documents\CPE\archi_dot_net\projects\ClientConvertisseurV1\ClientConvertisseurV2\ClientConvertisseurV2.csproj;x86
